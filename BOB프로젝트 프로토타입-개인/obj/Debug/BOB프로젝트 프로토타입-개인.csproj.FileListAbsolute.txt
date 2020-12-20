@@ -1,0 +1,56 @@
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\BOB프로젝트 프로토타입-개인.exe.config
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\BOB프로젝트 프로토타입-개인.exe
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\BOB프로젝트 프로토타입-개인.pdb
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트 프로토타입-개인.csprojAssemblyReference.cache
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트_프로토타입_개인.Personal_main.resources
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트_프로토타입_개인.Properties.Resources.resources
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트 프로토타입-개인.csproj.GenerateResource.cache
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트 프로토타입-개인.csproj.CoreCompileInputs.cache
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트 프로토타입-개인.exe
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트 프로토타입-개인.pdb
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트_프로토타입_개인.Register_form.resources
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\PacketClass.dll
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\PacketClass.pdb
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트 프로토타입-개인.csproj.CopyComplete
+C:\Users\dldms\Desktop\네이버 클라우드 공유 폴더\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\BOB프로젝트 프로토타입-개인.exe.config
+C:\Users\dldms\Desktop\네이버 클라우드 공유 폴더\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\BOB프로젝트 프로토타입-개인.exe
+C:\Users\dldms\Desktop\네이버 클라우드 공유 폴더\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\BOB프로젝트 프로토타입-개인.pdb
+C:\Users\dldms\Desktop\네이버 클라우드 공유 폴더\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\PacketClass.dll
+C:\Users\dldms\Desktop\네이버 클라우드 공유 폴더\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\PacketClass.pdb
+C:\Users\dldms\Desktop\네이버 클라우드 공유 폴더\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트 프로토타입-개인.csprojAssemblyReference.cache
+C:\Users\dldms\Desktop\네이버 클라우드 공유 폴더\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트_프로토타입_개인.Personal_main.resources
+C:\Users\dldms\Desktop\네이버 클라우드 공유 폴더\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트_프로토타입_개인.Register_form.resources
+C:\Users\dldms\Desktop\네이버 클라우드 공유 폴더\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트_프로토타입_개인.Properties.Resources.resources
+C:\Users\dldms\Desktop\네이버 클라우드 공유 폴더\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트 프로토타입-개인.csproj.GenerateResource.cache
+C:\Users\dldms\Desktop\네이버 클라우드 공유 폴더\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트 프로토타입-개인.csproj.CoreCompileInputs.cache
+C:\Users\dldms\Desktop\네이버 클라우드 공유 폴더\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트 프로토타입-개인.csproj.CopyComplete
+C:\Users\dldms\Desktop\네이버 클라우드 공유 폴더\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트 프로토타입-개인.exe
+C:\Users\dldms\Desktop\네이버 클라우드 공유 폴더\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트 프로토타입-개인.pdb
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\BOB프로젝트 프로토타입-개인.exe.config
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\BOB프로젝트 프로토타입-개인.exe
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\BOB프로젝트 프로토타입-개인.pdb
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\PacketClass.dll
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\PacketClass.pdb
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트 프로토타입-개인.csprojAssemblyReference.cache
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트_프로토타입_개인.Personal_main.resources
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트_프로토타입_개인.Register_form.resources
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트_프로토타입_개인.Properties.Resources.resources
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트 프로토타입-개인.csproj.GenerateResource.cache
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트 프로토타입-개인.csproj.CoreCompileInputs.cache
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트 프로토타입-개인.csproj.CopyComplete
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트 프로토타입-개인.exe
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\obj\Debug\BOB프로젝트 프로토타입-개인.pdb
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\EntityFramework.dll
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\GMap.NET.Core.dll
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\System.Data.SQLite.dll
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\EntityFramework.xml
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\System.Data.SQLite.xml
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입-개인\bin\Debug\PacketClass.dll.config

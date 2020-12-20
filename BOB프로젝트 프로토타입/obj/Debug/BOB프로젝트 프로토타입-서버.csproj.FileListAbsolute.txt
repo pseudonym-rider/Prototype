@@ -1,0 +1,29 @@
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\bin\Debug\BOB프로젝트 프로토타입.exe.config
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\bin\Debug\BOB프로젝트 프로토타입.exe
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\bin\Debug\BOB프로젝트 프로토타입.pdb
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\obj\Debug\BOB프로젝트 프로토타입-서버.csprojAssemblyReference.cache
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\obj\Debug\BOB프로젝트_프로토타입.Server.resources
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\obj\Debug\BOB프로젝트_프로토타입.Properties.Resources.resources
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\obj\Debug\BOB프로젝트 프로토타입-서버.csproj.GenerateResource.cache
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\obj\Debug\BOB프로젝트 프로토타입-서버.csproj.CoreCompileInputs.cache
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\obj\Debug\BOB프로젝트 프로토타입.exe
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\obj\Debug\BOB프로젝트 프로토타입.pdb
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\bin\Debug\PacketClass.dll
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\bin\Debug\PacketClass.pdb
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\obj\Debug\BOB프로젝트 프로토타입-서버.csproj.CopyComplete
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\bin\Debug\BOB프로젝트 프로토타입.exe.config
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\bin\Debug\BOB프로젝트 프로토타입.exe
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\bin\Debug\BOB프로젝트 프로토타입.pdb
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\bin\Debug\PacketClass.dll
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\bin\Debug\PacketClass.pdb
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\obj\Debug\BOB프로젝트 프로토타입-서버.csprojAssemblyReference.cache
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\obj\Debug\BOB프로젝트_프로토타입.Server.resources
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\obj\Debug\BOB프로젝트_프로토타입.Properties.Resources.resources
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\obj\Debug\BOB프로젝트 프로토타입-서버.csproj.GenerateResource.cache
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\obj\Debug\BOB프로젝트 프로토타입-서버.csproj.CoreCompileInputs.cache
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\obj\Debug\BOB프로젝트 프로토타입-서버.csproj.CopyComplete
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\obj\Debug\BOB프로젝트 프로토타입.exe
+C:\Users\dldms\Desktop\프로토타입\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\obj\Debug\BOB프로젝트 프로토타입.pdb
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\bin\Debug\GMap.NET.Core.dll
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\dldms\Desktop\BOB프로젝트 프로토타입\BOB프로젝트 프로토타입\bin\Debug\PacketClass.dll.config
